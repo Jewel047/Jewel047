@@ -1,6 +1,4 @@
-<div>
-  <img src="https://github.com/Jewel047/Jewel047/blob/main/Neon%20GitHub%20Developer%20Profile_%20Md%20Jewel.png"/>
-</div>
+
 
 <div align="center">
 
